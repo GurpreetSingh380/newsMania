@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.myBtn{
+  background-color: hsl(92, 12%, 79%);
+  color: hsl(0, 0%, 0%);
+  border: ridge;
+  border-radius: 5px;
+}
